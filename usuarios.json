@@ -1,0 +1,15 @@
+{
+  "usuarios": [
+    {
+      "usuario": "tiago.pascoetto",
+      "nome": "Tiago Pascoetto",
+      "perfil": "admin",
+      "trocar_senha": true,
+      "salt": "0frARpYOOLF4+mtAtGbSfg==",
+      "iter": 600000,
+      "verif": "iwMUPzQpbKweNsjBZkbozfZK3ny864/3A1LViE08uJM=",
+      "iv": null,
+      "segredo": null
+    }
+  ]
+}
