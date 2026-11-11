@@ -69,13 +69,13 @@
     {
       "usuario": "claudinei.silva",
       "nome": "Claudinei Silva",
-      "perfil": "consulta",
+      "perfil": "admin",
       "trocar_senha": true,
-      "salt": "rzZBNySTHKh/61VjfCJ1Jw==",
+      "salt": "nz5VY7gvbkPNGp/9y4XW6w==",
       "iter": 600000,
-      "verif": "aga0qO2j+fvps9WYOP2rmx36VNm7u5rDmVfqCu6V1Zk=",
-      "iv": "X5NQNpC9nbQX25UA",
-      "segredo": "orfHj6d5d95SN9Pg8PTfxklkxi/6POzOfgp1s+zVwG042/bKwLBVuaFhki7FUKyDqupUq2s6XwXhtT4x/KYwVYsWthTypvFfPrJglti/C0PkrbBhTEcazsnQLTUVcvPX7zvT4m7LUOMRr9iuu/uBKf80VLj3pg/zedyES4WwmJXDqMEc9GHFOyMr4zIb4VAa2yFNgGtfyrAvre2mVKjlwQ5Xn8hTjU+3249GvZ/IyiXoC/q3QJc+Ey9drRrPpb4wLgdVmH15oPRS+xvw4YQDM80YcHbPdsYPBD1F8cUeMhALyw=="
+      "verif": "HVymwAyGJHsi7v3Dl1ijGOTJauS2cBoeAyjc07oNcsY=",
+      "iv": "BgpJfijGvB+NIe4t",
+      "segredo": "P0FgvB2JZMzD3WG5ApspiHw4oPQMuiDPuQhnlSXItm+5xO8NjXptwHlpwu0nQ0ywFkI8+OBsOD2z8rsLwE+K6QqQ4jJajtj3gvkQ2H3KR7YVvuGemrhkDy5f5vr0I68uSVda6aTIGElfKHD7BG89NCjlxao0nYL4wDTV+2BDkLIrzbjW4jw5xOJhDesZiXpmJHiODqrGyDuvGWWvzy8g36lcXBNFkdr3+MbCeap4m7BrTNAUfXhqauoRoJKI8tnfne8zrJZZqXbRfbz1fVl2z8fz23YWosSAAee7D3O5uyzMEg=="
     }
   ]
 }
