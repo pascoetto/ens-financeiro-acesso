@@ -4,12 +4,12 @@
       "usuario": "tiago.pascoetto",
       "nome": "Tiago Pascoetto",
       "perfil": "admin",
-      "trocar_senha": true,
-      "salt": "0frARpYOOLF4+mtAtGbSfg==",
+      "trocar_senha": false,
+      "salt": "CWLUgdcDfxHcu7ZqXl5Q3w==",
       "iter": 600000,
-      "verif": "iwMUPzQpbKweNsjBZkbozfZK3ny864/3A1LViE08uJM=",
-      "iv": null,
-      "segredo": null
+      "verif": "i4foFP2ilpiNXLSJAUa76yDI/luWLl0ONum/GMRFahI=",
+      "iv": "M6sgVNYHktmdqiTP",
+      "segredo": "6+OLF6K6Ir7edZSyx3QDu06pxvHBbc2uUWMtgawsfnBpJ/P1FfTvN50j0ScIIQcBIbNl5gDIGWBLtItYXDxLwVzETcizS5LU56VpgK2ClQ3ctpmk7Gz7IsJ/bWWN1ox2mk/M5NLolGunQ7bxLFKvwF3LHrgW5+EuxxL1J9LmX1098GUJf/RN3FOkZBiwkXZpr+zylBzilE4WrM6exct4AlbLJmRxxrV870hnBvPJ+rMnmVh7YHXiJ224Xtb7wupKujH9tCuSevYRX2AiaDsUzU8zO3wvEUj/tNJmPhJf4B5ByQ=="
     }
   ]
 }
