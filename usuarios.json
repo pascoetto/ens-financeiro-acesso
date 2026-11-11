@@ -10,6 +10,17 @@
       "verif": "i4foFP2ilpiNXLSJAUa76yDI/luWLl0ONum/GMRFahI=",
       "iv": "M6sgVNYHktmdqiTP",
       "segredo": "6+OLF6K6Ir7edZSyx3QDu06pxvHBbc2uUWMtgawsfnBpJ/P1FfTvN50j0ScIIQcBIbNl5gDIGWBLtItYXDxLwVzETcizS5LU56VpgK2ClQ3ctpmk7Gz7IsJ/bWWN1ox2mk/M5NLolGunQ7bxLFKvwF3LHrgW5+EuxxL1J9LmX1098GUJf/RN3FOkZBiwkXZpr+zylBzilE4WrM6exct4AlbLJmRxxrV870hnBvPJ+rMnmVh7YHXiJ224Xtb7wupKujH9tCuSevYRX2AiaDsUzU8zO3wvEUj/tNJmPhJf4B5ByQ=="
+    },
+    {
+      "usuario": "ana.maria",
+      "nome": "Ana Maria",
+      "perfil": "admin",
+      "trocar_senha": true,
+      "salt": "k4jf0a127t4A0cWp3ZICyA==",
+      "iter": 600000,
+      "verif": "N4NyZUuitgSTdVKPkTrUvTs7OxzQu8S+JUrYSvCc/5s=",
+      "iv": "rt7FCLgGnm6gfN9F",
+      "segredo": "JOfnSz9j3VjZaClFeuPkcjLq+mDM0l1VWdFWLhyGaouktpT1MAJw0GppsoLQvcKEkYYAf21leNAT90nNys81pRh4GYAC3AuU4s9+gr9jt8Js1nWXR8uOumETCby1TvVPHW8T6fFj9TXP2OzpPZPYT6DBdroXcqnQ0VeyFr07mraFdkgXpN+svrbzdu75lqXe38Ros/rfhd/Tm3IqysDfKqNlakxv2g1lI9IUDE6eNYEMvNnNQY6X8tjXdvyPPFs4l6xupRBFDfBY16seOK+pJcf2iGv3fRg38umI/cs9LMXzjw=="
     }
   ]
 }
