@@ -65,6 +65,17 @@
       "verif": "bZGbOqrVjENgSRDhP7MRTLLiBN3qVp0Zxd88VMasIX8=",
       "iv": "pq5ybHFt+bQYc/bo",
       "segredo": "1Spx4VyzOXHg0CZE+QSZvgcrNb5eaxh+iBRz7JlZuE40wQ7Vj28/CAWQV87Szt9w2hB5WAyAzeWwCFOqBy/HGjbOih3lXO2aFCmJwHchzCebwV9Bn+kMrENdApixILzqd6JQGy6LR1QBnwN9gDDwhd1+Kii1wcLLHBjxiSGRSO1wxvElQgqRe2On3kw6TtWLmJEAHlL2i72V+VpgkdaMspcDCwsH3284tV7MYGY558X5YCBwNmwRgM7SSN9lHf3YRvXq0n21HtV5/k2mkEW08O3+nS/LyWJnnXLUqepR0PJ3qg=="
+    },
+    {
+      "usuario": "claudinei.silva",
+      "nome": "Claudinei Silva",
+      "perfil": "consulta",
+      "trocar_senha": true,
+      "salt": "rzZBNySTHKh/61VjfCJ1Jw==",
+      "iter": 600000,
+      "verif": "aga0qO2j+fvps9WYOP2rmx36VNm7u5rDmVfqCu6V1Zk=",
+      "iv": "X5NQNpC9nbQX25UA",
+      "segredo": "orfHj6d5d95SN9Pg8PTfxklkxi/6POzOfgp1s+zVwG042/bKwLBVuaFhki7FUKyDqupUq2s6XwXhtT4x/KYwVYsWthTypvFfPrJglti/C0PkrbBhTEcazsnQLTUVcvPX7zvT4m7LUOMRr9iuu/uBKf80VLj3pg/zedyES4WwmJXDqMEc9GHFOyMr4zIb4VAa2yFNgGtfyrAvre2mVKjlwQ5Xn8hTjU+3249GvZ/IyiXoC/q3QJc+Ey9drRrPpb4wLgdVmH15oPRS+xvw4YQDM80YcHbPdsYPBD1F8cUeMhALyw=="
     }
   ]
 }
