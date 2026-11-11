@@ -76,6 +76,17 @@
       "verif": "HVymwAyGJHsi7v3Dl1ijGOTJauS2cBoeAyjc07oNcsY=",
       "iv": "BgpJfijGvB+NIe4t",
       "segredo": "P0FgvB2JZMzD3WG5ApspiHw4oPQMuiDPuQhnlSXItm+5xO8NjXptwHlpwu0nQ0ywFkI8+OBsOD2z8rsLwE+K6QqQ4jJajtj3gvkQ2H3KR7YVvuGemrhkDy5f5vr0I68uSVda6aTIGElfKHD7BG89NCjlxao0nYL4wDTV+2BDkLIrzbjW4jw5xOJhDesZiXpmJHiODqrGyDuvGWWvzy8g36lcXBNFkdr3+MbCeap4m7BrTNAUfXhqauoRoJKI8tnfne8zrJZZqXbRfbz1fVl2z8fz23YWosSAAee7D3O5uyzMEg=="
+    },
+    {
+      "usuario": "josiane.miranda",
+      "nome": "Josiane Miranda",
+      "perfil": "admin",
+      "trocar_senha": true,
+      "salt": "jll+lhq6ZlFKgcS7EIzqFg==",
+      "iter": 600000,
+      "verif": "6/mdhDBKWZe1Bk2IWjZFCy2yXU58E2H8xx/xZynVLnQ=",
+      "iv": "g2R5QAYo5bjV0HPq",
+      "segredo": "O/IXuaU/CkmFHZqqrtPi/grYkGKAAw4ljcXCC8LpixEmOlnxPkqD/doGPsfPLhjq3CfGQn87eJtJQSvoMj+5AcD7v2zCoJ/j5mxby6+7AInmgTqxZvPO1sq2QhsgG2cevtF2mGZbrNX7U6yiUegnBMDtN3MaXZGCxKB7XfQJwZCyHwK+HJJuYuLP03FKMK0/MI6Zz0Pjzr1E33Y6o5Cvzl8TNhKqDcFw6iOtrZHCBSoeSx6ok6mmCj6Zxxat2N49JaV3K//0dUh6tps+FRRYKWMsi+Q0LP0ZZ6MD61rsarpRFg=="
     }
   ]
 }
