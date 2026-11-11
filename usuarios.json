@@ -21,6 +21,17 @@
       "verif": "N4NyZUuitgSTdVKPkTrUvTs7OxzQu8S+JUrYSvCc/5s=",
       "iv": "rt7FCLgGnm6gfN9F",
       "segredo": "JOfnSz9j3VjZaClFeuPkcjLq+mDM0l1VWdFWLhyGaouktpT1MAJw0GppsoLQvcKEkYYAf21leNAT90nNys81pRh4GYAC3AuU4s9+gr9jt8Js1nWXR8uOumETCby1TvVPHW8T6fFj9TXP2OzpPZPYT6DBdroXcqnQ0VeyFr07mraFdkgXpN+svrbzdu75lqXe38Ros/rfhd/Tm3IqysDfKqNlakxv2g1lI9IUDE6eNYEMvNnNQY6X8tjXdvyPPFs4l6xupRBFDfBY16seOK+pJcf2iGv3fRg38umI/cs9LMXzjw=="
+    },
+    {
+      "usuario": "rafaella.guiso",
+      "nome": "Rafaella Guiso",
+      "perfil": "consulta",
+      "trocar_senha": true,
+      "salt": "PDY0AXEMIqSpk1KQguJliQ==",
+      "iter": 600000,
+      "verif": "rF+a/EeA8fDvawghVjCqsJ0WM+ZC1FRunoQ0sBV6uAY=",
+      "iv": "4oawkquHxdo8u4CB",
+      "segredo": "7QfS7JcBKlBZOcDlCGx0Ixf6mN4ar5zPph5bfpLW2+aRJ+u8olvbzYlZyXg7Z4hKSvQ3R2ROYr+mjHzP9dnKbREaaXjCxZWm5FM+EjD15uuhJH8p3VEScmZb6xOOGI6TVqgbFqxENo+FsHmYw4cEty2U+Vm9xbwduAbLkOMIB9y5nMNzi3GYXmirUvlHlVGZRPjydJk7Phgb/EvnEacE8noL3U+Xu6CUmwLytQ8OaLjOkHsndOQIzzER9jps03o9cEkcj5b5RyJt5UJZ8lcfD7Em4XfOPtEN//MMHEGSLGhj4g=="
     }
   ]
 }
