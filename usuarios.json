@@ -54,6 +54,17 @@
       "verif": "9H5nEOUabOoFeOPDhB4yf8eFgyO8LGMwzF4MuuBUQT4=",
       "iv": "7Z/Gh6izjfeD7fsd",
       "segredo": "LhIlEZAcdOv73YxADjtYcz3qmpKi2cF4VVYrUlrryGV6VDt25GdtBof4uhEgVXOR1QDKKdSHSwgxmh6PqiC6D4ob48IbTsw3Te/gy+/raUixUrsI5+VCN0/gfobq3mJkFQQSGIO2jYLeuk+llSVa4XUp9ALt7+Db/Lw6MqE+/tW0Cu4iF6gTIqgjBIJzDjReeT9qv8Q6ss0ypoXRCxHimsM9w583jo0UmHlN7Ncxs5y4NuDzFsKH7vl+fFEiUk8S62Z6vPaY7gQA8PJSTrusVcK3gZk1ni2GeBzVHC/EE4r/PA=="
+    },
+    {
+      "usuario": "silvio.zerbini",
+      "nome": "Silvio Zerbini",
+      "perfil": "consulta",
+      "trocar_senha": true,
+      "salt": "doP7gXLZKBJpY/kNZHtbgg==",
+      "iter": 600000,
+      "verif": "bZGbOqrVjENgSRDhP7MRTLLiBN3qVp0Zxd88VMasIX8=",
+      "iv": "pq5ybHFt+bQYc/bo",
+      "segredo": "1Spx4VyzOXHg0CZE+QSZvgcrNb5eaxh+iBRz7JlZuE40wQ7Vj28/CAWQV87Szt9w2hB5WAyAzeWwCFOqBy/HGjbOih3lXO2aFCmJwHchzCebwV9Bn+kMrENdApixILzqd6JQGy6LR1QBnwN9gDDwhd1+Kii1wcLLHBjxiSGRSO1wxvElQgqRe2On3kw6TtWLmJEAHlL2i72V+VpgkdaMspcDCwsH3284tV7MYGY558X5YCBwNmwRgM7SSN9lHf3YRvXq0n21HtV5/k2mkEW08O3+nS/LyWJnnXLUqepR0PJ3qg=="
     }
   ]
 }
