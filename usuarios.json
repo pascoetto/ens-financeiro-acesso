@@ -87,6 +87,17 @@
       "verif": "6/mdhDBKWZe1Bk2IWjZFCy2yXU58E2H8xx/xZynVLnQ=",
       "iv": "g2R5QAYo5bjV0HPq",
       "segredo": "O/IXuaU/CkmFHZqqrtPi/grYkGKAAw4ljcXCC8LpixEmOlnxPkqD/doGPsfPLhjq3CfGQn87eJtJQSvoMj+5AcD7v2zCoJ/j5mxby6+7AInmgTqxZvPO1sq2QhsgG2cevtF2mGZbrNX7U6yiUegnBMDtN3MaXZGCxKB7XfQJwZCyHwK+HJJuYuLP03FKMK0/MI6Zz0Pjzr1E33Y6o5Cvzl8TNhKqDcFw6iOtrZHCBSoeSx6ok6mmCj6Zxxat2N49JaV3K//0dUh6tps+FRRYKWMsi+Q0LP0ZZ6MD61rsarpRFg=="
+    },
+    {
+      "usuario": "aroldo.gomes",
+      "nome": "Aroldo Gomes",
+      "perfil": "consulta",
+      "trocar_senha": true,
+      "salt": "lIxEGP8mgNQIOmSNcnEuxQ==",
+      "iter": 600000,
+      "verif": "Uarf1zP6UXwdOyhzoy5RSVhFhJmqeGmzMQtXYxYatzw=",
+      "iv": "3JS4KKmeqSolXFx0",
+      "segredo": "zcpSoCMu/a+rYx7+4epombL6DAUDWxyVQQ/HSqtVOmavTm/XE0TGwWtpvrrglCkpyLByLzgnHzcM0EOrFNHNG5EzDjZuik4Gm67L958AMWYMeCzlqzFy4RgYNM2z103wbO14evo9rEMC9fKCyqEknqrlt5KPPkftc9q7Ku63dZDGbAMZ3rwAbBaY0mMgM6cIEx30UTLyYPqeMKRE4+a3Po+/HDOeTuDMoBXLtKe3442nK2yTBiCVD3c0ZT5ydzvzFcmcRWCdKMy1mNMX4/Oj8AamaKm9JG0fGGHzpno1tm7TgQ=="
     }
   ]
 }
