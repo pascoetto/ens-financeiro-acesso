@@ -37,12 +37,12 @@
       "usuario": "igor.lopes",
       "nome": "Igor Lopes",
       "perfil": "consulta",
-      "trocar_senha": true,
-      "salt": "nlu4hJZCfgy6Zcs3Ux5gOA==",
+      "trocar_senha": false,
+      "salt": "ZNFt8BqdWNsCx+omErg0Rg==",
       "iter": 600000,
-      "verif": "MeGkJqfqOyo8O2aw9i/UQeJ2iqE3VsnsyrJncbWi2t8=",
-      "iv": "RYJLiV1MkX0dLO4V",
-      "segredo": "TGDJoZskTGHmvO4i9vU/Tu8g5fIxVDbAI3u8ybjulnBP36gIyYDmFCsfAQ7AErAGv1GBBnEG9X3/AgNJmDo0vig2LjivXQHOUtkllGFd9ScSqfys7h2W4HiTvBRKX1Vky6r4a8ZS1ioL3DP3i+AuHR+oDzvkz5Hkipc/O7xpwJeaSQy63RU5uBrgQWpnvLkHc4vxDEHu2D7qzhgG3b+jheUeSgpRM/1yi3cZK3c1m2JE4Jl2XAGdW0a+2d8kb+WS4x7Ml4ANkG0lrurVDmMl2LmPOQVd+nnjuxUytEFZB709ZQ=="
+      "verif": "N3uE3SlYbzUwU9K00ZTtfvFRz9SLspubUY2xTKVViK4=",
+      "iv": "cFvwBwHo5wJnWEZW",
+      "segredo": "Me+r+BQoWkjMi8zyn3z++we6kehhGCgKWMj9Z+WYeSyY+RFy6Om8arEy0wms7fkE6js/lSEIpH5maVp2z5+1UXpfz2mcZLeoqexMKce2BYm3lHKVRhi6f/TQyQemM02cwGBpOdpC2Hg2qXWtIX+jNJb8D6LX2XKG2R9ybMbkNeNLluFGz/XqXXk3q7+AWY1b9+Mp2oeQ6O/l+jAyOe8eqeByq/Ht5U1rRQKV3NmeOgeXqDkY5iWh2lZQLnuZf98qBBvLT8jP8zYssRfZ68KnqnsPhECSuAaG8KIxktWemMr/Tw=="
     },
     {
       "usuario": "adriana.zerbini",
