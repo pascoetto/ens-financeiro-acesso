@@ -26,12 +26,12 @@
       "usuario": "rafaella.guiso",
       "nome": "Rafaella Guiso",
       "perfil": "consulta",
-      "trocar_senha": true,
-      "salt": "PDY0AXEMIqSpk1KQguJliQ==",
+      "trocar_senha": false,
+      "salt": "DBjaTjC1H9NtZomYdhTCeg==",
       "iter": 600000,
-      "verif": "rF+a/EeA8fDvawghVjCqsJ0WM+ZC1FRunoQ0sBV6uAY=",
-      "iv": "4oawkquHxdo8u4CB",
-      "segredo": "7QfS7JcBKlBZOcDlCGx0Ixf6mN4ar5zPph5bfpLW2+aRJ+u8olvbzYlZyXg7Z4hKSvQ3R2ROYr+mjHzP9dnKbREaaXjCxZWm5FM+EjD15uuhJH8p3VEScmZb6xOOGI6TVqgbFqxENo+FsHmYw4cEty2U+Vm9xbwduAbLkOMIB9y5nMNzi3GYXmirUvlHlVGZRPjydJk7Phgb/EvnEacE8noL3U+Xu6CUmwLytQ8OaLjOkHsndOQIzzER9jps03o9cEkcj5b5RyJt5UJZ8lcfD7Em4XfOPtEN//MMHEGSLGhj4g=="
+      "verif": "Ux/jD5DeRdUdo+RlBI4mmBEyxMPlFsOvM0ta48L8kWI=",
+      "iv": "1Y2Ne8uFFpKKB8Qw",
+      "segredo": "kd75IQa/8lxvizOSaxZa4rR+pOBWluVNepNT//Iqqs6We0K5LcY7+B01gBuxndQb8LPy8gV7vPRFs3hvdhKEpJTDRfWt+k+MRCqYcBuuSAy9Lh4uH7Ec8KTgrxTT9H9FDW576zPpZ48bmWUCN7zV/RkS+p0kDq2AsiXBud22VE3feBxvvGAQpEX2efDBP97pwVLaSep23AMOxpWxsCaed3p1zhOrE6w7N3T6OF9m+jZwY9F4/3LKvCvDLYsxpRi2Z4BDWctHMzTEVwgayQwcVjhgNDxKun7ULpaCyWDI1zgATA=="
     },
     {
       "usuario": "igor.lopes",
